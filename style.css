@@ -1,0 +1,27 @@
+body{
+  background-image: url('minecraft.jpg');
+  
+}
+    nav {
+    border-bottom-width: 2px;
+    border-bottom-color: #ccc;
+    border-bottom-style: solid;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #fff;
+    }
+
+    label, input, textarea, button {
+    border: 5px dotted rgb(238, 116, 136);
+    background-color: rgb(202, 177, 177);
+    margin-bottom: 10px;
+    }
+    form{
+    text-align: left;
+    padding: 5px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    width: 10%;
+    }
